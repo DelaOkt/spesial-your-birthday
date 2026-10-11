@@ -946,3 +946,34 @@ body.birthday-mode .flower {
     animation: none;
   }
 }
+
+
+/* Fix video berkedut di beberapa HP */
+#media video {
+  display: block;
+  width: 100%;
+  height: auto;
+  max-width: 100%;
+  max-height: 40vh;
+  object-fit: contain;
+  background: #fbe8eb;
+  border: 0;
+  box-shadow: none;
+  transform: none;
+  filter: none;
+  animation: none;
+}
+
+#media {
+  transform: none;
+  -webkit-transform: none;
+}
+
+/* Hindari efek hover pada perangkat sentuh */
+@media (hover: none) {
+  #popup:hover {
+    box-shadow:
+      0 24px 65px rgba(190, 111, 137, 0.15),
+      0 6px 18px rgba(190, 111, 137, 0.08);
+  }
+}
