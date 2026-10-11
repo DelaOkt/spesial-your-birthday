@@ -291,7 +291,7 @@ const scenes = [
   },
   {
     label: "A LITTLE STORIE",
-    title: "Tau nggak bang?",
+    title: "Tau tidak bang?",
     message: "Kalau di ingat-ingat ya abang, kita udah 9 bulan lebih berteman, terus akrab, dan juga dekat, lama juga ya? Iyain aja udah, kalau tidak aku majokk hehe.\nLumayan banyak juga ya cerita, obrolan, dan hal random di antaranya.",
     button: "Terusss? 🤔",
     flower: "💌"
@@ -328,7 +328,7 @@ const scenes = [
   },
   {
     label: "HAPPY BIRTHDAY",
-    title: "Barakallah Fii Umrik, abanggg! 🎂🥳💐",
+    title: "Barakallah Fii Umrik Abanggg! 🎂🥳💐",
     message: "Mudah-mudahan hal-hal baik selalu menemukan abang, semoga sehat dan bahagia selalu, dan semoga apa yang lagi abang usahakan bisa pelan-pelan tercapai, serta jadi pribadi yang lebih baik lagi., aamiin ☺️♡",
     button: "Ehh... ada satu lagi",
     flower: "🎂"
